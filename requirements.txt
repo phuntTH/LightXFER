@@ -1,0 +1,11 @@
+# Core Data & ML Libraries
+numpy
+pandas
+opencv-python
+albumentations
+torch
+torchvision
+tqdm
+
+# Static Type Checker
+pyrefly
